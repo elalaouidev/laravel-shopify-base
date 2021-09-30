@@ -8,3 +8,4 @@ Shopify Starter App Based on Laravel - Vue - Tailwind - Sqlite
 #:/ touch database/database.sqlite <br />
 #:/ edit .env <br />
 #:/ composer require osiset/laravel-shopify <br />
+#:/ npm install tailwindcss <br />
